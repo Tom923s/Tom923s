@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything
 - 📫 How to reach me -> Not yet
 - 😄 Pronouns: ?
-- ⚡ Fun fact: No fun allowed
+- ⚡ Fun fact: I hacked Microsoft
 
 <!---
 Tom923s/Tom923s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
