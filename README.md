@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tom923s
-- 👀 I’m interested in whatevr i like rn
-- 🌱 I’m currently learning evrything
+- 👀 I’m interested in whatever i like rn
+- 🌱 I’m currently learning everything
 - 📫 How to reach me -> Not yet
 - 😄 Pronouns: ?
 - ⚡ Fun fact: No fun allowed
