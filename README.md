@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Tom923s
 - 👀 I’m interested in whatever i like rn
-- 🌱 I’m currently learning everything
-- 📫 How to reach me -> Not yet
-- 😄 Pronouns: ?
+- 🌱 I’m currently learning
 - ⚡ Fun fact: I hacked Microsoft
 
 <!---
